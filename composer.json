@@ -1,0 +1,8 @@
+{
+    "name": "pht-media/contact-form",
+    "description": "Contact form with PHPMailer",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
